@@ -1,4 +1,4 @@
-## This functions create a matrix that can chace its inverse
+## This functions creates a matrix that can chace its inverse
 
 ## Creates a "matrix" that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
